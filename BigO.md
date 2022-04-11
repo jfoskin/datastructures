@@ -13,3 +13,8 @@ function addNums(n){
     }
     return total
 }
+
+__________________________________
+function addNums(n) {
+    return n * (n+1)/2
+}
