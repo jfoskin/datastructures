@@ -18,3 +18,7 @@ __________________________________
 function addNums(n) {
     return n * (n+1)/2
 }
+
+Big O Notation is a fuzzy way of counting the operations that are occurring as the function is running 
+based on your number of operation the time complexity of that operation grows as well
+ O(n)   <------- this function describes that based on the number n the time complexity of that function will be the same  which is the output of O(n)
